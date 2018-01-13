@@ -14,5 +14,3 @@ print(rd.min(skipna=False))
 ##determine whether there are any missing values in the DataFrame use any”
 print(rd['numEmps'].isnull().any())
 
-
-

@@ -15,3 +15,4 @@ print(rd.min(skipna=False))
 print(rd['numEmps'].isnull().any())
 
 
+
